@@ -1,2 +1,2 @@
-# Language-Translator
-A Language Translator using Tkinter
+# Music Player in Python
+
